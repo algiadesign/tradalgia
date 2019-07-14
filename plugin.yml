@@ -1,0 +1,9 @@
+name: TRADALGIA
+main: algiadesign\tradalgia\TradalgiaPlugin
+version: 1.0.0
+api: 3.8.6
+
+load: POSTWORLD
+author: algiadesign
+description: アイテム取引API
+website: https://github.com/algiadesign
